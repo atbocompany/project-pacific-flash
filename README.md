@@ -13,7 +13,8 @@ Technologies Used
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+* Tailwindcss
+* React
 
 Installation
 
