@@ -18,15 +18,11 @@ Technologies Used
 Installation
 
 To run the website locally, clone this repository and open the index.html file in your web browser.
-
+<!-- 
 Usage
 
 The website can be accessed at [insert website URL here].
-
-Contributing
-
-If you would like to contribute to the website, please submit a pull request with your changes.
-
+ -->
 Credits
 
-The website was designed and developed by [insert photographer's name here].
+The website was designed and developed by Tyler Thibault.
